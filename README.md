@@ -20,10 +20,12 @@ Although, the option is there to change the database name to anything. The name 
 ## Usage
 
 At the login screen:
+
 1.  Check load defaults if you have went with the above default database setup. Otherwise, put in the custom settings
 2.  Click connect
 
 For the first launch, you will to create a table in the database to get started:
+
 1.  Select **Settings** from the left hand menu
 2.  Select **Create table**
 3.  Click **Apply**
@@ -31,6 +33,7 @@ For the first launch, you will to create a table in the database to get started:
 If successful, the lower panel will display "Table created...".
 
 To insert a record:
+
 1.  Select **Insert** from the menu
 2.  Fill in the form.
     * The ID must be 3 characters that are numerical. They also must be unique.
@@ -38,6 +41,7 @@ To insert a record:
 3.  Click on **Insert**
 
 To search a record:
+
 1.  Select **Search** from the menu
 2.  Type in an existing record ID.
 3.  Click on **Search**
