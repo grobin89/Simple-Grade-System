@@ -20,7 +20,7 @@ import javax.swing.JTextField;
 public class LoginPanel extends SubMainPanel 
 {
 	private final String DEF_SERVER = "localhost";
-	private final String DEF_DB = "ST11450512";
+	private final String DEF_DB = "ST123456";
 	private final String DEF_USER = "root";
 	private final String DEF_PASS = "abc123";
 	
